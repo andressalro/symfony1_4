@@ -1,0 +1,118 @@
+Oct 30 11:58:54 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 30 11:58:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 30 11:58:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 30 11:58:55 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 30 11:58:55 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, ''-'.strtoupper('\1')', to be a valid callback)
+Oct 30 11:58:55 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, ''-'.strtoupper('\1')', to be a valid callback)
+Oct 30 11:58:55 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Oct 30 11:58:55 symfony [info] {sfPHPView} Decorate content with "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 11:58:55 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 11:58:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 30 11:58:55 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, ''-'.strtoupper('\1')', to be a valid callback)
+Oct 30 11:58:55 symfony [info] {sfWebResponse} Send header "Content-type: text/html"
+Oct 30 11:58:55 symfony [info] {sfWebDebugLogger} Configuration 1512.72 ms (9)
+Oct 30 11:58:55 symfony [info] {sfWebDebugLogger} Factories 854.97 ms (1)
+Oct 30 11:58:55 symfony [info] {sfWebDebugLogger} Action "default/index" 0.19 ms (1)
+Oct 30 11:58:55 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 246.34 ms (1)
+Oct 30 11:58:55 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, ''-'.strtoupper('\1')', to be a valid callback)
+Oct 30 11:58:55 symfony [info] {sfWebResponse} Send content (30499 o)
+Oct 30 12:03:03 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 30 12:03:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 30 12:03:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 30 12:03:03 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 30 12:03:03 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Oct 30 12:03:03 symfony [info] {sfPHPView} Decorate content with "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:03:03 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:03:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 30 12:03:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 30 12:03:03 symfony [info] {sfWebDebugLogger} Configuration 38.25 ms (9)
+Oct 30 12:03:03 symfony [info] {sfWebDebugLogger} Factories 66.40 ms (1)
+Oct 30 12:03:03 symfony [info] {sfWebDebugLogger} Action "default/index" 0.11 ms (1)
+Oct 30 12:03:03 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 31.42 ms (1)
+Oct 30 12:03:03 symfony [info] {sfWebResponse} Send content (30611 o)
+Oct 30 12:03:33 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 30 12:03:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 30 12:03:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 30 12:03:33 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 30 12:03:33 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, ''-'.strtoupper('\1')', to be a valid callback)
+Oct 30 12:03:33 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, ''-'.strtoupper('\1')', to be a valid callback)
+Oct 30 12:03:33 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Oct 30 12:03:33 symfony [info] {sfPHPView} Decorate content with "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:03:33 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:03:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 30 12:03:33 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, ''-'.strtoupper('\1')', to be a valid callback)
+Oct 30 12:03:33 symfony [info] {sfWebResponse} Send header "Content-type: text/html"
+Oct 30 12:03:33 symfony [info] {sfWebDebugLogger} Configuration 36.11 ms (9)
+Oct 30 12:03:33 symfony [info] {sfWebDebugLogger} Factories 80.90 ms (1)
+Oct 30 12:03:33 symfony [info] {sfWebDebugLogger} Action "default/index" 0.11 ms (1)
+Oct 30 12:03:33 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 29.59 ms (1)
+Oct 30 12:03:33 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, ''-'.strtoupper('\1')', to be a valid callback)
+Oct 30 12:03:33 symfony [info] {sfWebResponse} Send content (30527 o)
+Oct 30 12:07:00 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 30 12:07:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 30 12:07:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 30 12:07:00 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 30 12:07:00 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, '-\1', to be a valid callback)
+Oct 30 12:07:00 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, '-\1', to be a valid callback)
+Oct 30 12:07:00 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Oct 30 12:07:00 symfony [info] {sfPHPView} Decorate content with "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:07:00 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:07:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 30 12:07:00 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, '-\1', to be a valid callback)
+Oct 30 12:07:00 symfony [info] {sfWebResponse} Send header "Content-type: text/html"
+Oct 30 12:07:00 symfony [info] {sfWebDebugLogger} Configuration 40.99 ms (9)
+Oct 30 12:07:00 symfony [info] {sfWebDebugLogger} Factories 73.07 ms (1)
+Oct 30 12:07:00 symfony [info] {sfWebDebugLogger} Action "default/index" 0.21 ms (1)
+Oct 30 12:07:00 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 38.11 ms (1)
+Oct 30 12:07:00 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, '-\1', to be a valid callback)
+Oct 30 12:07:00 symfony [info] {sfWebResponse} Send content (30526 o)
+Oct 30 12:08:57 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 30 12:08:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 30 12:08:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 30 12:08:57 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 30 12:08:57 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, '0', to be a valid callback)
+Oct 30 12:08:57 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, '0', to be a valid callback)
+Oct 30 12:08:57 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Oct 30 12:08:57 symfony [info] {sfPHPView} Decorate content with "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:08:57 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:08:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 30 12:08:57 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, '0', to be a valid callback)
+Oct 30 12:08:57 symfony [info] {sfWebResponse} Send header "Content-type: text/html"
+Oct 30 12:08:57 symfony [info] {sfWebDebugLogger} Configuration 36.73 ms (9)
+Oct 30 12:08:57 symfony [info] {sfWebDebugLogger} Factories 65.26 ms (1)
+Oct 30 12:08:57 symfony [info] {sfWebDebugLogger} Action "default/index" 0.13 ms (1)
+Oct 30 12:08:57 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 44.62 ms (1)
+Oct 30 12:08:57 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 409 (preg_replace_callback(): Requires argument 2, '0', to be a valid callback)
+Oct 30 12:08:57 symfony [info] {sfWebResponse} Send content (30527 o)
+Oct 30 12:13:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 30 12:13:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 30 12:13:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 30 12:13:41 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 30 12:13:41 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 412 (preg_replace_callback(): Modifier /e cannot be used with replacement callback)
+Oct 30 12:13:41 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 412 (preg_replace_callback(): Modifier /e cannot be used with replacement callback)
+Oct 30 12:13:41 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Oct 30 12:13:41 symfony [info] {sfPHPView} Decorate content with "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:13:41 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:13:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 30 12:13:41 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 412 (preg_replace_callback(): Modifier /e cannot be used with replacement callback)
+Oct 30 12:13:41 symfony [info] {sfWebResponse} Send header ": text/html"
+Oct 30 12:13:41 symfony [info] {sfWebDebugLogger} Configuration 24.66 ms (9)
+Oct 30 12:13:41 symfony [info] {sfWebDebugLogger} Factories 45.90 ms (1)
+Oct 30 12:13:41 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Oct 30 12:13:41 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 18.29 ms (1)
+Oct 30 12:13:41 symfony [warning] {sfWebDebugLogger}  Warning at C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 412 (preg_replace_callback(): Modifier /e cannot be used with replacement callback)
+Oct 30 12:13:41 symfony [info] {sfWebResponse} Send content (30503 o)
+Oct 30 12:14:00 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 30 12:14:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 30 12:14:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 30 12:14:00 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 30 12:14:00 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Oct 30 12:14:00 symfony [info] {sfPHPView} Decorate content with "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:14:00 symfony [info] {sfPHPView} Render "C:\Users\15-Cw0003\Documents\PersonalProjects\symfony_1.4\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Oct 30 12:14:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 30 12:14:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 30 12:14:00 symfony [info] {sfWebDebugLogger} Configuration 19.82 ms (9)
+Oct 30 12:14:00 symfony [info] {sfWebDebugLogger} Factories 34.99 ms (1)
+Oct 30 12:14:00 symfony [info] {sfWebDebugLogger} Action "default/index" 0.07 ms (1)
+Oct 30 12:14:00 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 17.65 ms (1)
+Oct 30 12:14:00 symfony [info] {sfWebResponse} Send content (30611 o)
