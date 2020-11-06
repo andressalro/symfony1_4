@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-require_once 'PEAR/REST/10.php';
+require_once 'REST/10.php';
 
 /**
  * sfPearRest10 interacts with a PEAR channel that supports REST 1.0.

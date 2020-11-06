@@ -1,0 +1,8 @@
+sfGuardUser:
+    admin:
+      email_address: andressalgadorojas@hotmail.com
+      username: andres
+      password: Andres123
+      first_name: Fabien
+      last_name: Potencier
+      is_super_admin: true

@@ -13,12 +13,12 @@ error_reporting(error_reporting() & ~E_STRICT);
 date_default_timezone_set('UTC');
 
 require_once 'PEAR.php';
-require_once 'PEAR/Config.php';
-require_once 'PEAR/Registry.php';
-require_once 'PEAR/Command.php';
-require_once 'PEAR/PackageFile/v2/rw.php';
-require_once 'PEAR/Dependency2.php';
-require_once 'PEAR/Installer.php';
+require_once 'Config.php';
+require_once 'Registry.php';
+require_once 'Command.php';
+require_once 'PackageFile/v2/rw.php';
+require_once 'Dependency2.php';
+require_once 'Installer.php';
 
 /**
  * sfPearEnvironment represents a PEAR environment.
